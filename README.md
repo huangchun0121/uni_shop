@@ -1,5 +1,6 @@
 # uni_shop
 本项目是一个基于uni-app开发的商城例子。
+参考文档链接：https://www.escook.cn/docs-uni-shop/
 商城首页：
 
 ![image](https://user-images.githubusercontent.com/93867993/189660419-49c977aa-c153-4037-bbec-85955c7b7e1a.png)
